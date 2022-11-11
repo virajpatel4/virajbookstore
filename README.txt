@@ -20,6 +20,9 @@ saved.
 2022-11-04
 
 after getting marks of part 1 i started working on my remaining part of part 1 which was not completetd.
+added new three projects and named them virajbooks.Models, virajbooks.DataAccess and virajbooks.Utility.
+deleted Data folder from Utility and copied it to DataAccess file.
+Renamed the folder under virajbooks.Models to ViewModels.
 but having errors in HomeController.cs on line 34 about namespace.
 2022-11-10
 
