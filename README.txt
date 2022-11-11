@@ -25,5 +25,10 @@ deleted Data folder from Utility and copied it to DataAccess file.
 Renamed the folder under virajbooks.Models to ViewModels.
 deleted migration folder
 but having errors in HomeController.cs on line 34 about namespace.
+errors in Error.cshtml for the using statements
 2022-11-10
+
+
+
+
 
