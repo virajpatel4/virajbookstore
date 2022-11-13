@@ -28,6 +28,13 @@ but having errors in HomeController.cs on line 34 about namespace.
 errors in Error.cshtml for the using statements
 2022-11-10
 
+We built the application and confirmed that there were no errors.
+Reviewed the appsetting.json file
+Migration added after getting error message from the package manager console that the target project doesn't match.
+changed the default project.
+New Migration Added.
+2022-11-12 
+9:58
 
 
 
