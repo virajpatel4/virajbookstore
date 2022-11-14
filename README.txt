@@ -52,5 +52,8 @@ no errors found
 
 
 
+having errors in Icategory as it shows formal parameter 'db' in file CategoryRepository.cs
+
+
 
 
