@@ -49,11 +49,32 @@ build succeeded.
 started part2.2
 clean and build the application
 no errors found
-
-
-
+created the category.cs file and added to the ApplicationDbContext.
+added a folder called Repository and created another folder in it as Irepository
+added type interface and named it Irepository.cs
+modified files as per the tutorial
+included using statement and implemented interfaces
+Modified code to set contructors 
+Now, its time to create individual repos Category.cs and ICategory.csModified ICategoryRepository.
+Completed remaining modifications
 having errors in Icategory as it shows formal parameter 'db' in file CategoryRepository.cs
+Build the application and commited to GitHub.
+Now we are going to implement the store procedure repository in Unit of work
+Added a new interface in IRepository
+and named it as ISP_Call.cs
+having error in ISP_Call.cs then solved by installing  NuGet package
+when having issue with Dynamic parameters then add nuget package Dapper with using statement
+Implemented new class in the repository
+Added new class in Repositroy, named it as SP_Call.cs
+Using appropriate statements we implemented ISP_Call interface.
+Added Connection.
+Adding new interface called IUnitOfWork to IRepository folder.
+updated the code with modifications.
+Now intertesting part comes..... we are adding class in Repository folder as UnitOfWork 
+Modified the code by adding ConfigureService method to be registered in Startup.cs
 
+facing errors in sratup.cs as it says IUnitOfWork and UnitOfWork namespace could not be found
+2022-11-13
 
 
 
