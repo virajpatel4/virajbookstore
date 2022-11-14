@@ -46,6 +46,11 @@ build started...
 build succeeded.
 2022-11-12
 
+started part2.2
+clean and build the application
+no errors found
+
+
 
 
 
