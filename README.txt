@@ -37,7 +37,7 @@ New Migration Added.
 9:58
 
 Added new table to the DB by creating a Category model and pushed to the DB.
-Added Migration
+Added Migration - 20221113025410_AddDefaultIdentityMigration
 Added using statement in ApplicationDbcontext.cs
 Re-run the add-migration and got error that says"AddCategoryToDb" is used by an existing migration.
 Removed the migration by using command inconsole.
