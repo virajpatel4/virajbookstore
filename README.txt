@@ -78,6 +78,7 @@ facing errors in sratup.cs as it says IUnitOfWork and UnitOfWork namespace could
 
 Solved the errors in Startup.cs... error was IUnitOfWork not implemented or inherited in UnitOfWork.cs file (public class UnitOfWork : IUnitOfWork)
 now heading towards 2.3
+modified upsert.cs
 2022-11-18
 
 
