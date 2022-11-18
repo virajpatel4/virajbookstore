@@ -76,5 +76,11 @@ Modified the code by adding ConfigureService method to be registered in Startup.
 facing errors in sratup.cs as it says IUnitOfWork and UnitOfWork namespace could not be found
 2022-11-13
 
+Solved the errors in Startup.cs... error was IUnitOfWork not implemented or inherited in UnitOfWork.cs file (public class UnitOfWork : IUnitOfWork)
+now heading towards 2.3
+2022-11-18
+
+
+
 
 
