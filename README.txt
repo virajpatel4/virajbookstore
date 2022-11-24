@@ -96,6 +96,10 @@ but having issue when i hit IIS express, new category button doen't works
 it works only manuualy!
 2022-11-23
 
+started with part 3 section(i)
+added overType.cs in the MOdels folder and added ID Name.
+2022-11-24
+
 
 
 
