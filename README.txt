@@ -79,7 +79,23 @@ facing errors in sratup.cs as it says IUnitOfWork and UnitOfWork namespace could
 Solved the errors in Startup.cs... error was IUnitOfWork not implemented or inherited in UnitOfWork.cs file (public class UnitOfWork : IUnitOfWork)
 now heading towards 2.3
 modified upsert.cs
+added the asp action to the Index.cshtml page
+navigate to category> create> New Category
+refresh the application by using @title variable when modified upsert.cshtml
+added @section to scripts
+Created Upsert POST action method in the CategoryController.cs
+Added Save() method to the IUnitOFWork interface
+remoed some methods like _db.SaveChanges()method in the CategoryRepository.cs and moved _unitOfWork.Save() method with the return RedirectToaction method.
 2022-11-18
+
+
+Added the API call for httpdelete in the categorycontroller.cs
+added the delete functionality in category.js with onclick event
+Added delete fuction code.
+but having issue when i hit IIS express, new category button doen't works
+it works only manuualy!
+2022-11-23
+
 
 
 
