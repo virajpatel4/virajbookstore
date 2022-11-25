@@ -103,6 +103,8 @@ Performed CRUD on covertpe
 having problems in migration as it says it doesnt match my migration assembly.
 changed migration assembly still it dosnt run
 shows Build FAiled.!!!
+as i do not know how to fix i am going to follow ppt and start the rest.
+
 2022-11-24
 
 
