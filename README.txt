@@ -97,7 +97,12 @@ it works only manuualy!
 2022-11-23
 
 started with part 3 section(i)
-added overType.cs in the MOdels folder and added ID Name.
+added CoverType.cs in the MOdels folder and added ID Name.
+added CoverType to the Repository and pushed to the DAtabase by creating migration and updating the DB.
+Performed CRUD on covertpe
+having problems in migration as it says it doesnt match my migration assembly.
+changed migration assembly still it dosnt run
+shows Build FAiled.!!!
 2022-11-24
 
 
